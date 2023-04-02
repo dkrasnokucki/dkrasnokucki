@@ -29,7 +29,7 @@ I'm Daniel, developer, security geek, teacher and trainer!
 ## 📫 Contact
 - [Akademia Górnośląska](daniel.krasnokucki@ag.pl)
 - [@kr4sn4l](https://twitter.com/kr4sn4l) on Twitter
-- [@krasnokucki](https://linkedin.com/krasnokucki) on LinkedIn
+- [@krasnokucki](https://linkedin.com/in/krasnokucki) on LinkedIn
 
 <!--
 **dkrasnokucki/dkrasnokucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
