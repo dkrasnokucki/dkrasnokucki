@@ -1,5 +1,36 @@
 ### Hi there 👋
 
+I'm Daniel, developer, security geek, teacher and trainer! 
+
+## 💬 Ask me about
+
+🔐 security
+- devsecops
+- pentesting
+- security programs
+
+💻 development
+- C#
+- python
+- JS, CSS, HTML,
+
+💁 soft skills
+- presentation
+- public speaking
+-
+
+🍻 other
+- football/soccer
+- voleyball
+- skiing
+- diplomatic protocol
+- beers :) 
+
+## 📫 Contact
+- [Akademia Górnośląska](daniel.krasnokucki@ag.pl)
+- [@kr4sn4l](https://twitter.com/kr4sn4l) on Twitter
+- [@krasnokucki](https://linkedin.com/krasnokucki) on LinkedIn
+
 <!--
 **dkrasnokucki/dkrasnokucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
