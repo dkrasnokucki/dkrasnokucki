@@ -17,7 +17,7 @@ I'm Daniel, developer, security geek, teacher and trainer!
 💁 soft skills
 - presentation
 - public speaking
--
+- managing technical teams
 
 🍻 other
 - football/soccer
